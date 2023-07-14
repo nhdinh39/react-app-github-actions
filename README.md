@@ -5,6 +5,12 @@
     git clone https://github.com/huydinh39/react-simple-app.git
 ```
 
+## Move to react-simple-app folder
+```
+    cd react-simple-app
+```
+
+
 ## Install dependences
 ```
     npm install

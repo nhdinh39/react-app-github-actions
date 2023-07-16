@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Welcome to React-Simple-App<br />
-        Workshop for FCJ BootCamp Season 3</p>
+        Workshop for FCJ BootCamp Season 2023</p>
       </header>
     </div>
   );
